@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.1)
+  - CCAutocomplete (0.0.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - CCAutocomplete
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CCAutocomplete
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  CCAutocomplete: 85a360f334da4c54d60b290373a84763458f96a1
+
+PODFILE CHECKSUM: edc502ded01a96e94a456bdd3504cb481c35b5cf
+
+COCOAPODS: 1.10.1
