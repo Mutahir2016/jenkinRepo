@@ -89,5 +89,9 @@ extension UIViewController {
         alertController.addAction(OKAction)
         self.present(alertController, animated: true, completion:nil)
     }
+    
+    func getJenkin() {
+        print("Jenkins added")
+    }
 
 }
